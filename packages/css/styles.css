@@ -1327,4 +1327,24 @@ img {
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  /* --------- Certification section -----------*/
+
+  .certification__img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: var(--mb-0-75);
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+.center {
+  margin: auto;
+  background: rgb(255, 220, 47) ;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
 }
